@@ -4,7 +4,6 @@ import Meals from "./components/meals/Meals"
 import Summary from "./components/summary/Summary"
 import styled from "styled-components"
 import SummaryInfoCard from "./components/summary/SummaryInfoCard"
-// import "./App.css"
 
 function App() {
   return (
